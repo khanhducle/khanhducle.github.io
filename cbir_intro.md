@@ -6,5 +6,8 @@ In general, there tend to be 3 types of image search engines: **search by meta-d
 
 # Search by Meta-Data
 Search by meta-data is only marginally different the the standard keyword-based search engines mentioned above. Search by meta-data systems rarely examine the contents of the image itself. Instead, they rely on textual clues such as (1) manual annotions and tagging performed by humans along with (2) automated contextual hints, such as the text that appears near the image on a webpage.
-![Example of a search by meta-data. ](https://github.com/khanhducle/khanhducle.github.io/blob/master/images/cbir_flickr_example.jpg)
+![Example of a search by meta-data](https://github.com/khanhducle/khanhducle.github.io/blob/master/images/cbir_flickr_example.jpg)
+*Example of a Search by meta-data*
+
+However,
 
