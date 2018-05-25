@@ -9,5 +9,10 @@ Search by meta-data is only marginally different the the standard keyword-based 
 ![Example of a search by meta-data](https://github.com/khanhducle/khanhducle.github.io/blob/master/images/cbir_flickr_example.jpg)
 **Example of a Search by meta-data**
 
+p>
+    <img src="https://github.com/khanhducle/khanhducle.github.io/blob/master/images/cbir_flickr_example.jpg" alt>
+    <em>Example of a Search by meta-data</em>
+</p>
+
 However,
 
