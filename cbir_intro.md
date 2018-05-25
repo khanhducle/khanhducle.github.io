@@ -26,10 +26,9 @@ Search by example systems, on the other hand, rely solely on the contents of the
 
 Image search engines that quantify the contents of an image are called **Content-Based Image Retrieval** (CBIR) systems. The term CBIR is commonly used in the academic literature, but in reality, it’s simply a fancier way of saying “image search engine” with the added poignancy that the search engine is relying strictly on the contents of the image and not any textual annotations associated with the image.
 
+A great example of a Search by Example system is TinEye. TinEye is actually a reverse image search engine where you first provide a query image, and then TinEye returns near-identical matches of the same image, along with the webpage that the original image appeared on.
+
 ## Hybrid Approach
 
 Twitter, for instance, is a combination between 2 approaches. You can upload photos to accompany your tweets. A hybrid approach would be to correlate the features extracted from the image with the text of the tweet. Therefore, the system can take both contextual hints along with a Search by Example strategy.
 
-
-
-A great example of a Search by Example system is TinEye. TinEye is actually a reverse image search engine where you first provide a query image, and then TinEye returns near-identical matches of the same image, along with the webpage that the original image appeared on.
