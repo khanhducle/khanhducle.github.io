@@ -1,5 +1,5 @@
 # Basic CBIR Pipeline
-![CBIR Pipeline]https://github.com/khanhducle/khanhducle.github.io/blob/master/images/Pipeline.PNG
+![CBIR Pipeline](https://github.com/khanhducle/khanhducle.github.io/blob/master/images/Pipeline.PNG)
 
 ## Building Block Explanation
 
