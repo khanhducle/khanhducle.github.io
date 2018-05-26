@@ -25,5 +25,4 @@ Here is the basic building block of CBIR:
 
 ### SEARCH RERANKING block
 **Spatial Verification / Geometric Verification**: process of performing keypoint detection, extracting local invariant descriptors, computing a homography matrix (using  RANSAC) between 2 iamges, and finally determining how many keypoints between 2 images are "matches"
-
 ## Flowchart Explanation
