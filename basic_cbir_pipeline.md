@@ -42,3 +42,4 @@ While searching, we need a way to rank the image based on its similarity. The pu
 ### SEARCH RERANKING block
 **Spatial Verification / Geometric Verification**: process of performing keypoint detection, extracting local invariant descriptors, computing a homography matrix (using  RANSAC) between 2 iamges, and finally determining how many keypoints between 2 images are "matches"
 ## Flowchart Explanation
+
