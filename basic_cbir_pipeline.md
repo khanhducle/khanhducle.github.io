@@ -1,6 +1,5 @@
 # Basic CBIR Pipeline
-Here is the basic building block of CBIR:
--- Image
+![CBIR Pipeline]https://github.com/khanhducle/khanhducle.github.io/blob/master/images/Pipeline.PNG
 
 ## Building Block Explanation
 
