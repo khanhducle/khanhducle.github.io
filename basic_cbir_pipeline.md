@@ -1,13 +1,12 @@
 # Basic CBIR Pipeline
 ![CBIR Pipeline](https://github.com/khanhducle/khanhducle.github.io/blob/master/images/Pipeline.PNG)
 Visual search framework consists of an off-line stage and an on-line stage. 
-- In the offline stage, each image in the database is represented by some feature vectors (Feature Extraction0 and then indexed in the database using some data structure (Database Indexing).
+- In the offline stage, each image in the database is represented by some feature vectors (Feature Extraction) and then indexed in the database using some data structure (Database Indexing).
 - In the online stage, a user will submit a query image to the system (by uploading from computer/mobile app). The system will:
    1. extract features from this query image (Feature Extraction Block)
    2. apply similarity function to compare the query features to the features already indexed (Image Scoring)
    3. apply post-processing techniques to improve search results (Search Reranking)
    4. return most relevant results to the user (Output Images)
-## Building Block Explanation
 
 ### Feature Extraction Block
 **Feature** (**Feature vectors**): A list of numbers used to abstractly represent and quantify images. These vectors are the results ofr Feature Extraction process.
@@ -46,6 +45,3 @@ While searching, we need a way to rank the image based on its similarity. The pu
 
 ### Search Reranking Block
 The purpose of this block is to post-process the search results to boost the accuracy of the image search. Some of the successful techniques include Geometric Verification (Spatial Verification), Query Expansion, and Retrieval Fusion 
-
-## Flowchart Explanation
-
