@@ -19,6 +19,12 @@ The purpose of this block is to extract the features. **Feature extraction** is 
 Since the response time is a key issue in retrieval, the purpose of this block is to assist for efficient retrieval of the target images. This consists of 2 steps:
 - Take the extracted features from previous step and store them on disk/database(CSV file, RDBMS, Redis, etc.) for later use
 - **Indexing** the dataset using a specialized data structure (inverted index, kd-tree, or random projection forest) to reduce search time.
+<p align="center">
+    <img src="https://github.com/khanhducle/khanhducle.github.io/blob/master/images/inverted_index.PNG">
+</p>
+<p align="center">
+    <b>Database Indexing Block</b>
+</p>
 
 ### Image Scoring Block
 
