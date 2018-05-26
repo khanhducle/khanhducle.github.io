@@ -10,6 +10,7 @@ Here is the basic building block of CBIR:
     <img src="https://github.com/khanhducle/khanhducle.github.io/blob/master/images/Feature_Extraction.PNG">
     <b>Feature Extraction Block</b>
 </p>
+
 **Feature Extraction**: The process of quantifying the dataset by extracting features from each and every image in the dataset. Feature extraction is quite a simple concept in principle, but in reality it can become very complex depending on the size and scale of the dataset. 
 
 ### DATABASE INDEXING Block
