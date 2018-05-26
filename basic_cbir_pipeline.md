@@ -39,7 +39,8 @@ Since the response time is a key issue in retrieval, the purpose of this block i
 
 While searching, we need a way to rank the image based on its similarity. The purpose of this block is to assign a relevance score for each image that is returned from the search.
 
-### SEARCH RERANKING block
-**Spatial Verification / Geometric Verification**: process of performing keypoint detection, extracting local invariant descriptors, computing a homography matrix (using  RANSAC) between 2 iamges, and finally determining how many keypoints between 2 images are "matches"
+### Search Reranking Block
+The purpose of this block is to post-process the search results to boost the accuracy of the image search. Some of the successful techniques include Geometric Verification (Spatial Verification), Query Expansion, and Retrieval Fusion 
+
 ## Flowchart Explanation
 
