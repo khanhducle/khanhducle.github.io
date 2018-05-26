@@ -1,5 +1,9 @@
 # Basic CBIR Pipeline
 ![CBIR Pipeline](https://github.com/khanhducle/khanhducle.github.io/blob/master/images/Pipeline.PNG)
+Visual search framework consists of an off-line stage and an on-line stage. 
+- In the offline stage, each image in the database is represented by some feature vectors and then indexed in the database using some data structure.
+- In the online stage, a user will submit a query image to the system (by uploading from computer/mobile app). The system will 
+* extract features from this query image
 
 ## Building Block Explanation
 
