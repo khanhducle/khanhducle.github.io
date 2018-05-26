@@ -9,7 +9,7 @@ Here is the basic building block of CBIR:
 
 
 <p align="center">
-    <img src="https://github.com/khanhducle/khanhducle.github.io/blob/master/images/Feature_Extraction.PNG" alt>
+    <img src="https://github.com/khanhducle/khanhducle.github.io/blob/master/images/Feature_Extraction.PNG">
     <b>Feature Extraction Block</b>
 </p>
 
