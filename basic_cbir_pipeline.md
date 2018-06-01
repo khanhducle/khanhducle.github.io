@@ -10,7 +10,7 @@ Visual search framework consists of an off-line stage and an on-line stage.
 
 ### Feature Extraction Block
 **Feature** (**Feature vectors**): A list of numbers used to abstractly represent and quantify images. These vectors are the results ofr Feature Extraction process.
-![Feature Extraction]("https://github.com/khanhducle/khanhducle.github.io/blob/master/images/Feature_Extraction.PNG")
+![Feature Extraction](https://github.com/khanhducle/khanhducle.github.io/blob/master/images/Feature_Extraction.PNG)
 <p align="center">
     <b>Feature Extraction Block</b>
 </p>
