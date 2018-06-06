@@ -1,0 +1,3 @@
+Database Indexing module
+Image index refers to a database organizing structure to assist for efficient retrieval of the target images. Since the response time is a key issue in retrieval, database indexing plays an important role in content-based image retrieval. One of the indexing techniques are popularly adopted is inverted file indexing, or inverted index.
+In the inverted file structure, each visual word is followed by an inverted file list of entries. Each entry stores the image IDs where the visual word appears as in figure [x]. When performing a search in online stage, those images sharing common visual words with the query image need to be checked. Therefore, the number of candidate images to be compared is greatly reduced, achieving an efficient response.
