@@ -7,8 +7,7 @@ Bag-of-visual-words concepts is taken from the “bag of words” model from the
     <img src="https://github.com/khanhducle/khanhducle.github.io/blob/master/bovw_text_example.jpg">
 </p>
 <p align="center">
-    <b>Bag of Words Model for Text Retrieval</b>
-    <b>Source: https://gilscvblog.com/tag/bag-of-words/</b>
+    <b>Bag of Words Model for Text Retrieval<br/><b>Source: https://gilscvblog.com/tag/bag-of-words/</b></b>
 </p>
 <p align="center">
     <b>Source: https://gilscvblog.com/tag/bag-of-words/</b>
