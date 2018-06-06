@@ -5,7 +5,7 @@
 <p align="center">
     <b>Image Scoring Module</b>
 </p>
-The target results in the index image database are assigned with a relevance score for ranking and then returned to users. The relevance score can be defined by measuring distance between the BOVW feature vector obtained from Image Representation module. There are a lot of similarity functions to measure how “similar” two feature vectors are, but two important ones commonly used in CBIR are **chi-squared distance** and **cosine distance**:
+The target results in the index image database are assigned with a relevance score for ranking and then returned to users. The relevance score can be defined by measuring distance between the BOVW feature vector obtained from Image Representation module. There are a lot of similarity functions to measure how “similar” two feature vectors are, but two important ones commonly used in CBIR are **chi-squared distance** and **cosine distance**
 
 **Chi-squared distance** measure the distance between two histograms. Images that have a chi-squared distance of 0 will be considered to be identical to each other. As the chi-squared similarity value increase, the images are less similar to each other.
 <p align="center">
