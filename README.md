@@ -10,7 +10,7 @@ Traditional approach to web-scale image retrieval relies on bag-of-visual-word m
 ### [* Codebook Construction Submodule](codebook_construction.md)
 ### [* Feature Quantization Submodule](feature_quantization.md)
 ### [2. Database Indexing Module](database_index.md)
-### [3. Image Scoring Module](image_socring.md)
+### [3. Image Scoring Module](image_scoring.md)
 ### [4. Spatial Verification Module](spatial_verification.md)
 
 
