@@ -24,9 +24,9 @@ In Information Retrievel and text analysis field, performing bag-of-words model 
 
 ### Building bag-of-visual-words model
 Building bag of visual words can be broken down into three-step process:
-Step #1: Feature Extraction
-Step #2: Codebook construction
-Step #3: Feature quantization
+* Step #1: Feature Extraction
+* Step #2: Codebook construction
+* Step #3: Feature quantization
 
 I will cover these steps in detail over the next few blogs.
 
