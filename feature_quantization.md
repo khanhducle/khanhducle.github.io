@@ -10,8 +10,8 @@ After constructing the codebook, the next step is to assign each feature in an i
 
 Finally, the BOVW vector is obtained by pooling the quantization results of all features in an image. For the basic CBIR system, counting the number of times each of visual words appears in an image is a common pooling technique. 
 <p align="center">
-    <img src="https://github.com/khanhducle/khanhducle.github.io/blob/master/images/Quantize3.png" width="100">
-    <img src="https://github.com/khanhducle/khanhducle.github.io/blob/master/images/Quantize4.png" width="100">    
+    <img src="https://github.com/khanhducle/khanhducle.github.io/blob/master/images/Quantize3.png" width="50">
+    <img src="https://github.com/khanhducle/khanhducle.github.io/blob/master/images/Quantize4.png" width="50">    
 </p>
 
 ![quantize1](https://github.com/khanhducle/khanhducle.github.io/blob/master/images/Quantize3.png) ![quantize2](https://github.com/khanhducle/khanhducle.github.io/blob/master/images/Quantize4.png)
