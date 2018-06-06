@@ -5,12 +5,12 @@ Traditional approach to web-scale image retrieval relies on bag-of-visual-word m
 
 ## [Overview of Image Search Engine](cbir_intro.md)
 ## [Basic Image Search Pipeline](basic_cbir_pipeline.md)
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ### [1. Image Representation Module](image_representation.md)
-### [* Feature Extraction Submodule](feature_extraction.md)
-### [* Codebook Construction Submodule](codebook_construction.md)
-### [* Feature Quantization Submodule](feature_quantization.md)
-### [2. Database Indexing Module](database_index.md)
-### [3. Image Scoring Module](image_scoring.md)
-### [4. Spatial Verification Module](spatial_verification.md)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1. Image Representation Module](image_representation.md)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Feature Extraction Submodule](feature_extraction.md)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Codebook Construction Submodule](codebook_construction.md)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Feature Quantization Submodule](feature_quantization.md)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2. Database Indexing Module](database_index.md)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3. Image Scoring Module](image_scoring.md)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4. Spatial Verification Module](spatial_verification.md)
 
 
