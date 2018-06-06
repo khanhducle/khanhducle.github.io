@@ -5,7 +5,7 @@ Traditional approach to web-scale image retrieval relies on bag-of-visual-word m
 
 ## [Overview of Image Search Engine](cbir_intro.md)
 ## [Basic Image Search Pipeline](basic_cbir_pipeline.md)
-### [1. Image Representation Module](image_representation.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp ### [1. Image Representation Module](image_representation.md)
 ### [* Feature Extraction Submodule](feature_extraction.md)
 ### [* Codebook Construction Submodule](codebook_construction.md)
 ### [* Feature Quantization Submodule](feature_quantization.md)
