@@ -6,7 +6,7 @@ To construct a visual codebook beforehand, k-means clustering algorithm, an unsu
     <img src="https://github.com/khanhducle/khanhducle.github.io/blob/master/images/k_means.png">
 </p>
 <p align="center">
-    <b> Example of k-means results with three clusters of data and their corresponding centers. Each center will represent a visual word</b>
+    <b> Example of k-means results with three clusters of data and their corresponding centers.<br/><b>Each center will represent a visual word</b></b>
 </p>
 
 Because of the high computational complexity to train a large visual codebook, mini-batch k-means algorithm [2], a more efficient and scalable version of the original k-means algorithm is proposed. It breaks the dataset into small segments, clustering each of the segments individually, then merging the clusters resulting from each of these segments together to form the final solution. 
