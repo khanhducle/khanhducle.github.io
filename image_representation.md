@@ -9,11 +9,18 @@ Bag-of-visual-words concepts is taken from the “bag of words” model from the
 <p align="center">
     <b>Bag of Words Model for Text Retrieval<br/><b>Source: https://gilscvblog.com/tag/bag-of-words/</b></b>
 </p>
+
+In computer vision, the same concept is applied; instead of using keywords, “words” are now image patches and their associated feature vectors:
+
 <p align="center">
-    <b>Source: https://gilscvblog.com/tag/bag-of-words/</b>
+    <img src="https://github.com/khanhducle/khanhducle.github.io/blob/master/bovw_image_example.jpg">
+</p>
+<p align="center">
+    <b>Bag of Visual Words Model for Image Retrieval<br/><b>Source: https://gilscvblog.com/2013/08/23/bag-of-words-models-for-visual-categorization/</b></b>
 </p>
 
-In computer vision, the same concept is applied; instead of using keywords, “words” are now image patches and their associated feature vectors. Building bag of visual words can be broken down into three-step process:
+
+Building bag of visual words can be broken down into three-step process:
 Step #1: Feature Extraction
 Step #2: Codebook construction
 Step #3: Feature quantization
