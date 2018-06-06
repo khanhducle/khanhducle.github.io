@@ -1,4 +1,4 @@
-##Feature Quantization submodule
+## Feature Quantization Submodule
 
 After constructing the codebook, the next step is to assign each feature in an image to the closest visual word in the pre-trained visual codebook from the previous step. The simplest choice is to take the nearest neighbor search by calculating the Euclidean distance from  a given feature to all the visual words in the codebook to find the closest (the most similar) visual word. The quantization result of a single feature is a high-dimensional binary vector, where the non-zero dimension corresponds to the quantized visual words.
 <p align="center">
