@@ -16,4 +16,5 @@ While the clusters obtained from mini-batch k-means are not as accurate as the o
 #### Reference
 [1] J. Sivic and A. Zisserman, “Video Google: A text retrieval approach to object matching in videos,” in IEEE Conference on
 Computer Vision and Pattern Recognition, 2003, pp. 1470–1477.
+
 [2] Sculley, D, “Web-scale k-means clustering,” 2010.
