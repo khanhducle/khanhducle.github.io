@@ -7,7 +7,7 @@ In image processing and computer vision area, **feature vector** is an abstracti
     <img src="https://github.com/khanhducle/khanhducle.github.io/blob/master/images/feature_extraction1.png">
 </p>
 <p align="center">
-    <b>Feature Extraction Pipeline <br/><b>Source: https://gilscvblog.com/tag/bag-of-words/</b></b>
+    <b>Feature Extraction Pipeline</b>
 </p>
 
 ### Keypoint Detection
