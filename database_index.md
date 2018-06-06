@@ -1,6 +1,6 @@
 ## Database Indexing module
 <p align="center">
-    <img src="https://github.com/khanhducle/khanhducle.github.io/blob/master/images/database_index_main1.png">
+    <img src="https://github.com/khanhducle/khanhducle.github.io/blob/master/images/database_index_main2.png">
 </p>
 <p align="center">
     <b>Database Indexing module</b>
