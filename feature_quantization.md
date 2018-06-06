@@ -18,5 +18,5 @@ Finally, the BOVW vector is obtained by pooling the quantization results of all 
     <b>Feature Quantization<br/><b>Source: http://www.cs.utexas.edu/~grauman/courses/fall2009/papers/bag_of_visual_words.pdf</b></b>
 </p>
 
-However, term frequency-inverse document frequency (tf-idf), a concept borrowed from the field of Information Retrieval, can be used instead to improve the retrieval accuracy since it weights more informative visual words in the dataset. 
+However, **term frequency-inverse document frequency (tf-idf)**, a concept borrowed from the field of Information Retrieval, can be used instead to improve the retrieval accuracy since it weights more informative visual words in the dataset. 
 Since the visual codebook is very large and the generated BOVW vector is very sparse, the bag-of-visual-words model usually used along with the inverted file indexing scheme, which is discussed in the next section.
