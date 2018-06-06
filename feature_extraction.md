@@ -1,7 +1,7 @@
 ## Feature Extraction submodule
-In image processing and computer vision area, feature vector is an abstraction of an image used to characterize and numerically quantify the contents of an image. In other words, it is a list of numbers used to represent an image. Feature extraction is the process of computing feature vectors from an image. Generally, the feature extraction for image retrieval involves two key steps: 
-keypoint detection
-local region description.
+In image processing and computer vision area, **feature vector** is an abstraction of an image used to characterize and numerically quantify the contents of an image. In other words, it is a list of numbers used to represent an image. **Feature extraction** is the process of computing feature vectors from an image. Generally, the feature extraction for image retrieval involves two key steps: 
+1. keypoint detection
+2. local region description.
 
 Figure x. Fdsfdsfdfgsd
 Keypoint detection is to find the “interesting” regions of an image. These regions can be edges, corners, “blobs,” or regions of an image where the pixel intensities are approximately uniform. At the very core, keypoints are simply the (x, y) coordinates of the interesting, salient regions of an image. There are many different algorithms that can find and detect these “interesting” regions. Difference of Gaussian (DoG) [x] used to detect “blob”-like structures in images is an example of keypoint detection. What makes DoG stands out from other keypoints algorithm is its repeatability, meaning that the keypoints can be identified under various lighting conditions and transformation. However, because of the slow speed of DoG, Fast Hessian [x] is introduced instead. This algorithm is built on the same principles as DoG in that keypoints should be both repeatable and recognizable at different scales of an image. Since Fast Hessian is faster than DoG and still gets the equivalent performance, it will be used as the keypoint detection algorithm in the Feature 
